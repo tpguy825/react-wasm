@@ -1,0 +1,1 @@
+"use strict";import useWasm from"./useWasm";var Wasm=function(a){var b=a.url,c=a.bufferSource,d=a.importObject,e=a.children,f=useWasm({url:b,bufferSource:c,importObject:d});return e(f)};Wasm.defaultProps={url:null,bufferSource:null,importObject:{}};export default Wasm;

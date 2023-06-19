@@ -1,0 +1,1 @@
+"use strict";import Wasm from"./Wasm";import useWasmDefinition from"./useWasm";import withWasmDefinition from"./withWasm";export var useWasm=useWasmDefinition;export var withWasm=withWasmDefinition;export default Wasm;
